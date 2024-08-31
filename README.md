@@ -180,3 +180,13 @@ int main()
 ~~~
 
 ### Program Outputs
+1) <img width="316" alt="Screenshot 2024-08-31 at 3 42 18 PM" src="https://github.com/user-attachments/assets/5a2fe881-94f0-43d5-8e15-b013bd3322af">
+2) <img width="586" alt="Screenshot 2024-08-31 at 3 45 04 PM" src="https://github.com/user-attachments/assets/96a4c2d0-8b0c-4533-9a67-93be5a963c0a">
+3) <img width="597" alt="Screenshot 2024-08-31 at 3 46 08 PM" src="https://github.com/user-attachments/assets/d49e2c23-3044-4b2b-85ea-3feaf9c35530">
+4) <img width="592" alt="Screenshot 2024-08-31 at 3 47 33 PM" src="https://github.com/user-attachments/assets/115c2582-cc6b-4540-8dfa-9bd07a4bb66d">
+5) <img width="295" alt="Screenshot 2024-08-31 at 3 48 38 PM" src="https://github.com/user-attachments/assets/5ae9b82e-d4ed-4fc3-9098-5aa1acd057f7">
+6) <img width="294" alt="Screenshot 2024-08-31 at 3 49 22 PM" src="https://github.com/user-attachments/assets/b412289b-b317-46d1-a393-63054e2082cb">
+7) <img width="300" alt="Screenshot 2024-08-31 at 3 50 17 PM" src="https://github.com/user-attachments/assets/667c7007-34a6-4981-9b9b-23062e4a533c">
+
+### Conclusion <br>
+In simple terms, pointers in C++ let you work directly with memory addresses, making it easier to manage data and memory. They are especially useful for functions that need to change the original data or work with large amounts of data efficiently. Using pointers, you can modify data directly and handle dynamic memory more effectively.
